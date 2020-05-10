@@ -1,0 +1,81 @@
+,statement,Significant number 1 detected,Significant number 2 detected,equation generated,answer evaluated
+0,88 raise twice,45,71,^++,116
+1,add 43 and 11,53,34,-++,87
+2,multiply 33 with 95,22,35,-++,57
+3,96 times 5,38,97,-++,135
+4,increase 43 by 16,87,71,-++,158
+5,reduce 95 by 96,31,81,-++,112
+6,58 times 89,40,97,-++,137
+7,subtract 7 from 86,8,40,-++,48
+8,multiply 29 with 41,28,49,-++,77
+9,75 raise thrice,27,26,^++,53
+10,add 54 and 86,64,72,-++,136
+11,49 raise thrice,74,27,^++,101
+12,add 46 and 79,56,4,-++,60
+13,subtract 5 from 70,63,66,-++,129
+14,51 raise twice,23,40,^++,63
+15,29 raise thrice,24,51,^++,75
+16,39 times 96,34,31,-++,65
+17,increase 93 by 37,54,33,-++,87
+18,multiply 55 with 56,38,16,-++,54
+19,83 times 8,45,28,-++,73
+20,subtract 60 from 79,75,8,-++,83
+21,75 times 43,17,45,-++,62
+22,75 times 13,89,97,-++,186
+23,increase 78 by 38,93,66,-++,159
+24,38 times 5,79,13,-++,92
+25,add 22 and 62,87,17,-++,104
+26,add 14 and 14,85,59,-++,144
+27,68 raise thrice,16,40,^++,56
+28,7 raise twice,44,46,^++,90
+29,multiply 23 with 70,32,72,-++,104
+30,add 78 and 17,6,44,-++,50
+31,76 times 5,44,25,-++,69
+32,79 raise thrice,19,17,^++,36
+33,reduce 33 by 71,34,34,-++,68
+34,increase 98 by 20,60,92,-++,152
+35,subtract 72 from 55,96,40,-++,136
+36,reduce 5 by 59,77,82,-++,159
+37,37 raise twice,34,77,^++,111
+38,add 39 and 23,84,60,-++,144
+39,multiply 81 with 61,49,59,-++,108
+40,23 raise thrice,43,24,^++,67
+41,reduce 35 by 87,65,8,-++,73
+42,add 81 and 59,10,23,-++,33
+43,increase 54 by 24,30,35,-++,65
+44,increase 36 by 52,98,98,-++,196
+45,subtract 60 from 44,16,6,-++,22
+46,subtract 45 from 23,80,48,-++,128
+47,46 raise thrice,65,61,^++,126
+48,reduce 75 by 47,8,27,-++,35
+49,28 raise twice,81,85,^++,166
+50,multiply 10 with 75,71,75,-++,146
+51,reduce 60 by 11,22,80,-++,102
+52,add 83 and 43,74,99,-++,173
+53,reduce 95 by 52,94,78,-++,172
+54,82 raise twice,32,48,^++,80
+55,increase 56 by 32,67,43,-++,110
+56,multiply 75 with 14,73,28,-++,101
+57,add 55 and 88,64,89,-++,153
+58,31 raise thrice,15,4,^++,19
+59,subtract 40 from 34,80,97,-++,177
+60,multiply 24 with 34,42,45,-++,87
+61,46 times 17,3,38,-++,41
+62,subtract 33 from 95,42,92,-++,134
+63,23 raise twice,95,32,^++,127
+64,15 raise twice,42,20,^++,62
+65,36 raise thrice,46,88,^++,134
+66,increase 62 by 58,22,79,-++,101
+67,subtract 78 from 80,71,93,-++,164
+68,26 raise twice,80,7,^++,87
+69,multiply 46 with 35,70,83,-++,153
+70,52 raise thrice,18,30,^++,48
+71,99 raise twice,41,54,^++,95
+72,reduce 67 by 65,62,19,-++,81
+73,increase 90 by 42,52,28,-++,80
+74,reduce 76 by 78,87,22,-++,109
+75,37 times 3,95,40,-++,135
+76,subtract 59 from 8,22,36,-++,58
+77,increase 67 by 13,39,44,-++,83
+78,multiply 98 with 81,40,99,-++,139
+79,reduce 22 by 31,97,33,-++,130
