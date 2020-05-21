@@ -1,0 +1,81 @@
+statement,Significant number 1 detected,Significant number 2 detected,equation generated,answer evaluated
+88 raise twice,88.0,2.0,x^y,7744.0
+add 43 and 11,43.0,11.0,x+y,54.0
+multiply 33 with 95,33.0,95.0,x*y,3135.0
+96 times 5,96.0,5.0,x*y,480.0
+increase 43 by 16,43.0,16.0,x+y,59.0
+reduce 95 by 96,95.0,96.0,x-y,-1.0
+58 times 89,58.0,89.0,x*y,5162.0
+subtract 7 from 86,7.0,86.0,x-y,-79.0
+multiply 29 with 41,29.0,41.0,x*y,1189.0
+75 raise thrice,75.0,3.0,x^y,421875.0
+add 54 and 86,54.0,66.0,x+y,120.0
+49 raise thrice,49.0,3.0,x^y,117649.0
+add 46 and 79,46.0,79.0,x+y,125.0
+subtract 5 from 70,5.0,70.0,x-y,-65.0
+51 raise twice,51.0,2.0,x^y,2601.0
+29 raise thrice,29.0,3.0,x^y,24389.0
+39 times 96,39.0,96.0,x*y,3744.0
+increase 93 by 37,93.0,37.0,x+y,130.0
+multiply 55 with 56,55.0,56.0,x*y,3080.0
+83 times 8,83.0,8.0,x*y,664.0
+subtract 60 from 79,60.0,79.0,x-y,-19.0
+75 times 43,75.0,43.0,x*y,3225.0
+75 times 13,75.0,13.0,x*y,975.0
+increase 78 by 38,78.0,38.0,x+y,116.0
+38 times 5,38.0,5.0,x*y,190.0
+add 22 and 62,22.0,62.0,x+y,84.0
+add 14 and 14,14.0,14.0,x+y,28.0
+68 raise thrice,68.0,3.0,x^y,314432.0
+7 raise twice,7.0,2.0,x^y,49.0
+multiply 23 with 70,23.0,70.0,x*y,1610.0
+add 78 and 17,78.0,17.0,x+y,95.0
+76 times 5,76.0,5.0,x*y,380.0
+79 raise thrice,79.0,3.0,x^y,493039.0
+reduce 33 by 71,33.0,71.0,x-y,-38.0
+increase 98 by 20,98.0,20.0,x+y,118.0
+subtract 72 from 55,72.0,55.0,x-y,17.0
+reduce 5 by 59,5.0,59.0,x-y,-54.0
+37 raise twice,37.0,2.0,x^y,1369.0
+add 39 and 23,39.0,23.0,x+y,62.0
+multiply 81 with 61,81.0,61.0,x*y,4941.0
+23 raise thrice,23.0,3.0,x^y,12167.0
+reduce 35 by 87,35.0,87.0,x-y,-52.0
+add 81 and 59,81.0,59.0,x+y,140.0
+increase 54 by 24,54.0,24.0,x+y,78.0
+increase 36 by 52,36.0,52.0,x+y,88.0
+subtract 60 from 44,60.0,44.0,x-y,16.0
+subtract 45 from 23,45.0,23.0,x-y,22.0
+46 raise thrice,46.0,3.0,x^y,97336.0
+reduce 75 by 47,75.0,77.0,x-y,-2.0
+28 raise twice,22.0,2.0,x^y,484.0
+multiply 10 with 75,10.0,75.0,x*y,750.0
+reduce 60 by 11,60.0,11.0,x-y,49.0
+add 83 and 43,83.0,43.0,x+y,126.0
+reduce 95 by 52,95.0,52.0,x-y,43.0
+82 raise twice,82.0,2.0,x^y,6724.0
+increase 56 by 32,56.0,32.0,x+y,88.0
+multiply 75 with 14,75.0,14.0,x*y,1050.0
+add 55 and 88,55.0,88.0,x+y,143.0
+31 raise thrice,31.0,3.0,x^y,29791.0
+subtract 40 from 34,40.0,34.0,x-y,6.0
+multiply 24 with 34,24.0,34.0,x*y,816.0
+46 times 17,46.0,17.0,x*y,782.0
+subtract 33 from 95,33.0,95.0,x-y,-62.0
+23 raise twice,23.0,2.0,x^y,529.0
+15 raise twice,15.0,2.0,x^y,225.0
+36 raise thrice,36.0,3.0,x^y,46656.0
+increase 62 by 58,62.0,58.0,x+y,120.0
+subtract 78 from 80,78.0,80.0,x-y,-2.0
+26 raise twice,26.0,2.0,x^y,676.0
+multiply 46 with 35,46.0,35.0,x*y,1610.0
+52 raise thrice,52.0,3.0,x^y,140608.0
+99 raise twice,99.0,2.0,x^y,9801.0
+reduce 67 by 65,67.0,65.0,x-y,2.0
+increase 90 by 42,90.0,42.0,x+y,132.0
+reduce 76 by 78,76.0,78.0,x-y,-2.0
+37 times 3,37.0,3.0,x*y,111.0
+subtract 59 from 8,59.0,8.0,x-y,51.0
+increase 67 by 13,67.0,13.0,x+y,80.0
+multiply 98 with 81,98.0,81.0,x*y,7938.0
+reduce 22 by 31,22.0,31.0,x-y,-9.0
